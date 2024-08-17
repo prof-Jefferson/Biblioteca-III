@@ -2,8 +2,8 @@
 
 class Program
 {
-	static void Main(string[] args)
-	{
-		Console.WriteLine("Olá Mundo");
-	}
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
 }
